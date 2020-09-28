@@ -1,0 +1,3 @@
+[submodule "aaa/bbb"]
+	path = aaa/bbb
+	url = git@github.com:linasituowozi/shikuan.git
